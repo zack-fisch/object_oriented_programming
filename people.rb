@@ -5,5 +5,7 @@ class Student
 end
 
 class Instructor
-
+	def teach 
+		puts "Everything is a ruby object."
+	end
 end
